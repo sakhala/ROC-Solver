@@ -1,4 +1,7 @@
 ROC-Solver
 ==========
 
-In Cellular Maufacturing System (CMS) or Group Technology, layout of machines are based on recognizing similarities in products – similarities in geometry, size, materials and processing requirements. This similar products are collected – “Grouped” instead of being treated as individuals and it leads to product families that visit similar equipment and populate their 'cells' production schedule. Clustering parts to build part families or Clustering Machines to build cells
+In Cellular Maufacturing System (CMS) or Group Technology, 
+layout of machines are based on recognizing similarities in products – similarities in geometry, size, materials and processing requirements. 
+The products on the basis of similarities are collected and “Grouped” instead of being treated as individuals. 
+In this application the problem of clustering of Machines to build cells has been implemented using Rank Order Clustering Algorithm.
